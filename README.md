@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murphy99
-- 👀 I’m interested in r and python data science programming and statistics
-- 🌱 I’m currently learning r and python
-- 💞️ I’m looking to collaborate on shiny apps in r
+- 👀 I’m interested in R and Python data science programming and statistics.
+- 🌱 Currently have an R Blog to keep me in R shape.
+- 💞️ I’m looking to learning Shiny Apps.
 - 📫 How to reach me - e.p.murphy99@gmail.com
 
 <!---
